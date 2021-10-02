@@ -9,12 +9,22 @@
 
 <br/>
 
+![jnsjknn](https://github-readme-stats.vercel.app/api/top-langs?username=jnsjknn&show_icons=true&locale=en&layout=compact&theme=dracula)
+
 ## Me on the Internet:
 
-[Website](https://joonasjokinen.fi) | [Twitter](https://twitter.com/jnsjknn) | [Instagram](https://instagram.com/jnsjknn.dev) | [LinkedIn](https://www.linkedin.com/in/joonasjokinen/) | [Reddit](https://reddit.com/u/jnsjknn) | [Quora](https://www.quora.com/profile/Joonas-Jokinen-6)
 
-### Latest Blog Posts
+[<img src="./icons/globe.svg" alt="joonasjokinen.fi"  width="30"/>](https://joonasjokinen.fi)&nbsp;&nbsp;
+[<img src="./icons/twitter.svg" alt="jnsjknn"  width="30"/>](https://twitter.com/jnsjknn)&nbsp;&nbsp;
+[<img src="./icons/instagram.svg" alt="jnsjknn.dev" width="30"/>](https://www.instagram.com/jnsjknn.dev)&nbsp;&nbsp;
+[<img src="./icons/linkedin.svg" alt="joonasjokinen" width="30"/> ](https://www.linkedin.com/in/joonasjokinen/)&nbsp;&nbsp;
+[<img src="./icons/reddit.svg" alt="jnsjknn" width="30"/>](https://reddit.com/u/jnsjknn)
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to make and publish your own npm package?](https://joonasjokinen.fi/blog/how-to-make-and-publish-npm-package)
 - [How to compress your create-react-app and make it load faster?](https://joonasjokinen.fi/blog/compress-create-react-app-make-it-faster)
 <!-- BLOG-POST-LIST:END -->
+
+
+
