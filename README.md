@@ -19,6 +19,8 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If atoms are mostly empty space, why do things look and feel solid?](https://joonasjokinen.fi/blog/atoms-empty-space-why-things-look-feel-solid)
+- [How can birds safely sit on power lines?](https://joonasjokinen.fi/blog/how-can-birds-safely-sit-on-power-lines)
 - [How to generate an RSS feed for static Next.js website?](https://joonasjokinen.fi/blog/how-to-generate-rss-feed-nextjs)
 - [How to make and publish your own npm package?](https://joonasjokinen.fi/blog/how-to-make-and-publish-npm-package)
 - [How to compress your create-react-app and make it load faster?](https://joonasjokinen.fi/blog/compress-create-react-app-make-it-faster)
