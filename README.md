@@ -19,11 +19,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did people synchronize time before modern technologies?](https://joonasjokinen.fi/blog/how-did-people-synchronize-time-in-past)
+- [What is the correct way of learning JavaScript? How and where can I learn the fundamentals of JS?](https://joonasjokinen.fi/blog/correct-way-learning-javascript-how-and-where)
+- [Why do humans rule the world?](https://joonasjokinen.fi/blog/why-humans-rule-the-world)
 - [How do great physicists remember all the equations and formuals?](https://joonasjokinen.fi/blog/how-great-physicists-remember-all-equations-formulas)
 - [My best advice for people starting their university studies](https://joonasjokinen.fi/blog/best-advice-for-people-starting-university-studies)
-- [Why do we feel sleepy?](https://joonasjokinen.fi/blog/why-do-we-feel-sleepy)
-- [What&#39;s the difference between different cellular networks like 4G and 5G?](https://joonasjokinen.fi/blog/how-cellular-networks-like-5g-4g-are-different)
-- [If atoms are mostly empty space, why do things look and feel solid?](https://joonasjokinen.fi/blog/atoms-empty-space-why-things-look-feel-solid)
 <!-- BLOG-POST-LIST:END -->
 
 
