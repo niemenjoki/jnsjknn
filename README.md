@@ -19,11 +19,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set up a Raspberry Pi headlessly after April 2022 update. No monitor required](https://joonasjokinen.fi/blog/how-setup-raspberry-pi-without-monitor-april-2022-update)
+- [Raspberry Pi default username/password no longer automatically work with the a fresh install of the latest OS. Here&#39;s how to set up your Pi with the latest OS](https://joonasjokinen.fi/blog/raspberry-pi-default-username-password-no-longer-work)
 - [How did people synchronize time before modern technologies?](https://joonasjokinen.fi/blog/how-did-people-synchronize-time-in-past)
 - [What is the correct way of learning JavaScript? How and where can I learn the fundamentals of JS?](https://joonasjokinen.fi/blog/correct-way-learning-javascript-how-and-where)
 - [Why do humans rule the world?](https://joonasjokinen.fi/blog/why-humans-rule-the-world)
-- [How do great physicists remember all the equations and formuals?](https://joonasjokinen.fi/blog/how-great-physicists-remember-all-equations-formulas)
-- [My best advice for people starting their university studies](https://joonasjokinen.fi/blog/best-advice-for-people-starting-university-studies)
 <!-- BLOG-POST-LIST:END -->
 
 
