@@ -19,11 +19,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What caused the Chernobyl 1986 nuclear accident?](https://joonasjokinen.fi/blog/what-caused-chernobyl-accident)
 - [How to set up a Raspberry Pi headlessly after April 2022 update. No monitor required](https://joonasjokinen.fi/blog/how-setup-raspberry-pi-without-monitor-april-2022-update)
 - [Raspberry Pi default username/password no longer automatically work with the a fresh install of the latest OS. Here&#39;s how to set up your Pi with the latest OS](https://joonasjokinen.fi/blog/raspberry-pi-default-username-password-no-longer-work)
 - [How did people synchronize time before modern technologies?](https://joonasjokinen.fi/blog/how-did-people-synchronize-time-in-past)
 - [What is the correct way of learning JavaScript? How and where can I learn the fundamentals of JS?](https://joonasjokinen.fi/blog/correct-way-learning-javascript-how-and-where)
-- [Why do humans rule the world?](https://joonasjokinen.fi/blog/why-humans-rule-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 
