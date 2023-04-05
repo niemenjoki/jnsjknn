@@ -1,9 +1,8 @@
 ### Hi there, I'm [Joonas Jokinen](https://joonasjokinen.fi) (jnsjknn) 👋
 
 ## I'm an engineer with childlike curiosity for learning
-- 💼 I manage building automation projects for living
-- 👨‍💻 I write code for fun on my spare time
-- 🤼‍♂️ I train Brazilian jiujitsu 3-5 times per week
+- 🔧 Building automation systems programmer for living
+- 🚀 JavaScript, Python, Linux, Home Assistant programmer for fun
 
 ## Me on the Internet:
 
