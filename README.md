@@ -12,7 +12,7 @@
 [<img src="./icons/linkedin.svg" alt="joonasniemenjoki" width="30"/> ](https://www.linkedin.com/in/joonasniemenjoki/)&nbsp;&nbsp;
 [<img src="./icons/reddit.svg" alt="niemenjoki" width="30"/>](https://reddit.com/u/niemenjoki)
 
-![jnsjknn](https://github-readme-stats.vercel.app/api/top-langs?username=jnsjknn&show_icons=true&locale=en&layout=compact&theme=dracula)
+![jnsjknn](https://github-readme-stats.vercel.app/api/top-langs?username=niemenjoki&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 
 
